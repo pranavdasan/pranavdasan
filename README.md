@@ -24,5 +24,5 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/pranav-dasan/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20-0A66C2?logo=linkedin-white&logoColor=fff)"/></a>
 <a href="https://lilcodey.itch.io/"><img src="https://img.shields.io/badge/-itch.io-FA5C5C?&logo=itch.io&logoColor=white"/></a>
-<a href="mailto:pranavdasan8@gmail.com"><img src="https://img.shields.io/badge/-pranavdasan8@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:pranavdasan8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
